@@ -1,0 +1,5 @@
+{
+  "name": "Smart Excel Merger",
+  "description": "A powerful tool to merge multiple Excel files into one. Features AI-powered column mapping to unify disparate headers (e.g., 'Email' vs 'E-mail Address') automatically.",
+  "requestFramePermissions": []
+}
